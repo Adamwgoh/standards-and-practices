@@ -151,4 +151,4 @@ Format:
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-
+| Adam W. Goh | [adamwgoh] (https://github.com/adamwgoh) | Understands C fundamentals without much programming time. Currently moving into Python. Loves to get some hands-on projects time. |
